@@ -1,3 +1,5 @@
+This issue is resolved in [15.8.7](https://github.com/nrwl/nx/releases/tag/15.8.7)
+
 This repo is here to prove that the implicit dependencies override as described [here](https://nx.dev/reference/project-configuration#implicitdependencies) doesn't work.
 Screenshot of docs:
 ![Screenshot 2023-03-08 at 11 09 44](https://user-images.githubusercontent.com/23667517/223671021-df3c1c43-97ad-402c-82c0-247d736b84f3.png)
